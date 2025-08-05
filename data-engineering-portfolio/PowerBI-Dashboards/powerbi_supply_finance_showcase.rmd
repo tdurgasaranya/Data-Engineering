@@ -1,0 +1,9 @@
+---
+title: "Power BI Dashboard Showcase"
+output: html_document
+---
+
+## OTIF and Budget Analysis
+
+- OTIF % = Orders On Time In Full / Total Orders
+- Cost Variance = (Actual - Budget)/Budget

@@ -1,0 +1,12 @@
+---
+title: "ETL Design - Supply Chain & Finance"
+output: html_document
+---
+
+## Data Sources
+- Inventory from SFTP
+- Cost data from APIs
+- Budget files from Excel
+
+## Target
+- PostgreSQL tables for BI
